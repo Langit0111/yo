@@ -168,7 +168,7 @@ def execute_bug_function(name):
         print(f"{Y}[!] Fungsi bug '{name}' tidak ditemukan.{RESET}")
     input(f"{Y}\n[✓] Tekan Enter untuk kembali ke menu...{RESET}")
     
-    def crack_password()
+    def crack_password():
     user_password = input("Enter Your Password (simulasi): ")
     crack = ""
     password = list("abcdefghijklmnopqrstuvwxyz0123456789")
